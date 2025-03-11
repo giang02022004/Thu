@@ -1,0 +1,258 @@
+BODY {
+	BACKGROUND: url(../hinh-thoi-trang/bg.gif) #323232 repeat-y center 50%; MARGIN: auto; FONT-FAMILY: Verdana, Geneva, Helvetica, sans-serif, Arial
+}
+H1 {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #221e1f
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN: 0px; COLOR: #221e1f
+}
+H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN: 0px; COLOR: #221e1f
+}
+H5 {
+	DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #221e1f; LINE-HEIGHT: 170%
+}
+A {
+	COLOR: #221e1f
+}
+B {
+	FONT-WEIGHT: normal
+}
+U {
+	COLOR: #0a61ac
+}
+UL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 28px
+}
+OL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 28px
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#container {
+	BACKGROUND: url(../hinh-thoi-trang/bg.gif) #323232 repeat-y center 50%; MARGIN-BOTTOM: auto; MARGIN-LEFT: auto; WIDTH: 1049px; MARGIN-RIGHT: auto; POSITION: relative
+}
+#btWrapper {
+	LEFT: 0px; WIDTH: 1049px; BOTTOM: -147px; POSITION: absolute; HEIGHT: auto
+}
+#bt {
+	PADDING-RIGHT: 9px; PADDING-LEFT: 9px; PADDING-BOTTOM: 9px; MARGIN: 0px auto; OVERFLOW: hidden; WIDTH: 975px; PADDING-TOP: 9px; HEIGHT: auto; BACKGROUND-COLOR: #5d4d54; TEXT-ALIGN: center
+}
+#bt2 {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 1px; TEXT-ALIGN: center
+}
+#tp {
+	POSITION: relative; TOP: 0px
+}
+#floattxt1 {
+	RIGHT: 187px; POSITION: absolute; TOP: 10px
+}
+#floattxt2 {
+	RIGHT: 62px; POSITION: absolute; TOP: 10px
+}
+#ImageMain {
+	CLEAR: left; FLOAT: left
+}
+.floattxt {
+	FONT-SIZE: 10px; COLOR: #82a748; TEXT-DECORATION: underline
+}
+.floattxt:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.dtTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #8d0045; LINE-HEIGHT: 130%
+}
+.SubTitle {
+	FONT-SIZE: 12px; MARGIN: 10px 0px 0px 10px; COLOR: #333333; LINE-HEIGHT: 170%
+}
+.SectionHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #da3e00
+}
+TD.lsTitle {
+	MARGIN: 0px; VERTICAL-ALIGN: top; HEIGHT: 23px
+}
+H6 {
+	MARGIN: 0px; VERTICAL-ALIGN: top; HEIGHT: 23px
+}
+A.lsTitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #8d0045; TEXT-DECORATION: none
+}
+.lsTitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #8d0045; TEXT-DECORATION: none
+}
+A.Command {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #8d0045; TEXT-DECORATION: none
+}
+.lsTitle {
+	LINE-HEIGHT: 180%; TEXT-DECORATION: none
+}
+A.Command {
+	FONT-WEIGHT: bold
+}
+A.lsTitle:hover {
+	TEXT-DECORATION: underline
+}
+A.Command:hover {
+	TEXT-DECORATION: underline
+}
+A.lsTitle2 {
+	FONT-SIZE: 11px; COLOR: #8d0045; LINE-HEIGHT: 170%; TEXT-DECORATION: none
+}
+A.lsTitle2:hover {
+	TEXT-DECORATION: underline
+}
+TD.lsTD {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; WIDTH: 150px
+}
+.TDleft {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 38px; FONT-SIZE: 11px; PADDING-BOTTOM: 20px; LINE-HEIGHT: 200%; PADDING-TOP: 20px
+}
+.TDRight {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-SIZE: 11px; PADDING-BOTTOM: 20px; LINE-HEIGHT: 160%; PADDING-TOP: 20px
+}
+.stext {
+	MARGIN-TOP: 0px; FONT-SIZE: 10px; COLOR: #003f74
+}
+.NavTop {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #937e85; LINE-HEIGHT: 100%; TEXT-DECORATION: none
+}
+.NavL2 {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #937e85; LINE-HEIGHT: 100%; TEXT-DECORATION: none
+}
+.NavL2Alt {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #937e85; LINE-HEIGHT: 100%; TEXT-DECORATION: none
+}
+.NavBottom {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #937e85; LINE-HEIGHT: 100%; TEXT-DECORATION: none
+}
+.NavTop:hover {
+	COLOR: #9f8c93
+}
+.NavBottom {
+	PADDING-LEFT: 0px; COLOR: #9f8c93
+}
+A.NavBottom {
+	PADDING-LEFT: 0px; COLOR: #9f8c93
+}
+A.NavBottom {
+	TEXT-DECORATION: underline
+}
+.NavBottom:hover {
+	COLOR: #b6a8ad; TEXT-DECORATION: underline
+}
+.NavBottomTD {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #9f8c93; LINE-HEIGHT: 100%; TEXT-DECORATION: none
+}
+.NavL1 {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #9f8c93; LINE-HEIGHT: 190%; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.NavL1:hover {
+	COLOR: #b6a8ac
+}
+.NavL2 {
+	PADDING-LEFT: 23px; LINE-HEIGHT: 170%; TEXT-DECORATION: none
+}
+.NavL2:hover {
+	COLOR: #b6a8ac; TEXT-DECORATION: underline
+}
+.NavL2Alt {
+	PADDING-LEFT: 23px; COLOR: #b6a8ac; LINE-HEIGHT: 170%; TEXT-DECORATION: none
+}
+.NavL2Alt:hover {
+	COLOR: #b6a8ac; TEXT-DECORATION: underline
+}
+A.DetailAction {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; TEXT-DECORATION: none
+}
+.DetailAction {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; TEXT-DECORATION: none
+}
+A.DetailAction:hover {
+	COLOR: #cdc4c7
+}
+.fTitle {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: bottom; COLOR: #ffffff
+}
+.ftext {
+	FONT-SIZE: 11px; COLOR: #000000; BACKGROUND-COLOR: #e5dfe1
+}
+.paging {
+	FONT-SIZE: 11px; COLOR: #483b4e; TEXT-DECORATION: none
+}
+.pagingOn {
+	FONT-SIZE: 11px; COLOR: #483b4e; TEXT-DECORATION: none
+}
+.pagingOff {
+	FONT-SIZE: 11px; COLOR: #483b4e; TEXT-DECORATION: none
+}
+.pagingSelected {
+	FONT-SIZE: 11px; COLOR: #483b4e; TEXT-DECORATION: none
+}
+.pagingOff {
+	COLOR: #7c6787
+}
+.pagingOn {
+	FONT-WEIGHT: bold; COLOR: #000000
+}
+.pagingSelected {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+TD.pagingSelected {
+	FONT-WEIGHT: bold; COLOR: #e55a5d; BACKGROUND-COLOR: #e55a5d
+}
+.link {
+	FONT-SIZE: 11px; COLOR: #8d0045; TEXT-DECORATION: none
+}
+.link:hover {
+	TEXT-DECORATION: underline
+}
+.SH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #4d4d4f; LINE-HEIGHT: 0%; PADDING-TOP: 0px
+}
+.SHy {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #4d4d4f; LINE-HEIGHT: 0%; PADDING-TOP: 0px
+}
+.SHg {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #4d4d4f; LINE-HEIGHT: 0%; PADDING-TOP: 0px
+}
+.SHb {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #4d4d4f; LINE-HEIGHT: 0%; PADDING-TOP: 0px
+}
+.SHy {
+	COLOR: #f7f6bd
+}
+.SHg {
+	COLOR: #6b5a60
+}
+.SHb {
+	COLOR: #000000
+}
+.txtSearch {
+	BORDER-TOP-WIDTH: 0px; MARGIN-TOP: 7px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-LEFT: 5px; WIDTH: 147px; COLOR: #000000; MARGIN-RIGHT: 0px; BACKGROUND-COLOR: #fec9aa; BORDER-RIGHT-WIDTH: 0px
+}
+.txtInput {
+	FONT-SIZE: 11px; COLOR: #000000; BACKGROUND-COLOR: #fec9aa
+}
+.btnGo {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #e55a5d
+}
+.postcardTxt {
+	FONT-SIZE: 11px; FONT-FAMILY: Courier New,Courier,monospace
+}
+A.link1 {
+	FONT-SIZE: 11px; COLOR: #8d0045; TEXT-DECORATION: underline
+}
+A.link1:hover {
+	TEXT-DECORATION: none
+}
+.exText {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Geneva, Helvetica, sans-serif, Arial
+}
+.text {
+	FONT-SIZE: 9px
+}
+.colorpreview {
+	BORDER-RIGHT: #90afc0 1px inset; BORDER-TOP: #90afc0 1px inset; FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT: #90afc0 1px inset; WIDTH: 30px; BORDER-BOTTOM: #90afc0 1px inset; HEIGHT: 20px
+}
